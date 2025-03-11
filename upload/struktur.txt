@@ -1,0 +1,31 @@
+/project-root
+│── /src
+│   │── /assets
+│   │   ├── image1.png
+│   │   ├── image2.png
+│   │   ├── image3.png
+│   │   ├── image4.png
+│   │   ├── image5.png
+│   │   ├── image6.png
+│   │   ├── image7.png
+│   │── /pages
+│   │   ├── Home.jsx
+│   │   ├── DetailPortfolio.jsx
+│   │   ├── PageNotFound.jsx
+│   │── /components
+│   │   ├── Header.jsx
+│   │   ├── Footer.jsx
+│   │   ├── About.jsx
+│   │   ├── Navbar.jsx
+│   │   ├── Experience.jsx
+│   │   ├── Portfolio.jsx
+│   │   ├── ScrollToTop.jsx
+│   │── /data
+│   │   ├── data.js
+│   │── /style
+│   │   ├── Header.css
+│   │   ├── Footer.css
+│   │   ├── About.css
+│   │   ├── Navbar.css
+│   │   ├── Experience.css
+│   │   ├── Portfolio.css
